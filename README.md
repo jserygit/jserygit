@@ -13,8 +13,6 @@ Hey there! I'm Julien, a passionate programmer with a love for video games. I sp
 
 ## Skills
 
-List your key skills here, including programming languages, technologies, tools, etc.
-
 - Programming Languages:
   - JavaScript
   - Python
